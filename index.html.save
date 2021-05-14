@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Landon Webpage</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<h1>Hello World, This is my Kitty Gallery!</h1>
+		<div class="gallery">
+			<div class="gallery_item">
+				<div class="gallery_image">
+					<a href="cat1.jpg"><img src="cat1.jpg" alt="Cat picture"></a>
+				</div>
+				<div class="gallery_desc">
+					<p> This is a random cat! </p>
+			</div>
+
+			 <div class="gallery_item">
+                                <div class="gallery_image">
+                                        <a href="cat2.jpg"><img src="cat2.jpg" alt="Cat picture"></a>
+                                </div>
+                                <div class="gallery_desc">
+                                        <p> This is a random cat! </p>
+                        </div>
+			 <div class="gallery_item">
+                                <div class="gallery_image">
+                                        <a href="cat3.jpg"><img src="cat3.jpg" alt="Cat picture"></a>
+                                </div>
+                                <div class="gallery_desc">
+                                        <p> This is a random cat! </p>
+			
+                        </div>
+			 <div class="gallery_item">
+                                <div class="gallery_image">
+                                        <a href="cat1.jpg"><img src="cat1.jpg" alt="Cat picture"></a>
+                                </div>
+                                <div class="gallery_desc">
+                                        <p> This is a random cat! </p>
+                        </div>
+
+
+		</div>
+	</body>
+</html>
+
